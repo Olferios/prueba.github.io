@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#contenedor{
+    width:1000px;
+    height: 800px;
+    border:4px red solid;
+    margin:1 em auto;
+
+}
+#header{
+    display: flex;
+    width: 991px;
+    height: 200px;
+    border: 4px blue solid;
+    margin: 0px auto;
+
+}
+#logo{
+    width: 20%;
+    height: 100%;
+    border: 4px green solid;
+    margin-right: 1px;
+}
+#banner{
+    width: 80%;
+    height: 100%;
+    border: 4px green solid;
+    float: right;
+    margin: 0px auto;
+    
+}
+#nav{
+
+}
